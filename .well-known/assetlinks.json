@@ -1,0 +1,10 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.gerar.ca.miscellaneous",
+      "sha256_cert_fingerprints":
+      ["B5:4A:9A:E1:B8:0D:A1:5E:C8:EF:6E:7F:FD:53:F1:B7:E5:23:1D:0B:C3:7C:A2:3F:14:F1:18:29:03:25:61:C1"]
+    }
+  }]
+  
